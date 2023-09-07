@@ -2,19 +2,9 @@ Soy un espiritu con un cuerpo humano, mi nombre Carlos Martínez Hernández, y m
 
 En el Tecnologico he impartido materias como:
 
-Fundamentos de programacion
-Programacion Orientada a Objetos
-Estructuras de Datos
-Taller de sistemas operativos
-Fundamentos de Bases de Datos
-Taller de Bases de Datos
-Admon. de Bases de Datos
-Programacion Web
+Fundamentos de programación, Programación Orientada a Objetos, Estructuras de Datos, Taller de sistemas operativos, Fundamentos de Bases de Datos, Taller de Bases de Datos, Admon. de Bases de Datos, Programación Web
 
-Lenguajes de programación como:
-Python
-Javascript
+Lenguajes de programación como: Python, Javascript
 
-Gestores de bases de datos como
-Mysql
+Gestores de bases de datos como: Mysql
 
